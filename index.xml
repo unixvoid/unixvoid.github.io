@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nsproxy-docs</title>
-    <link>https://unixvoid.com/index.xml</link>
+    <link>https://unixvoid.github.io/index.xml</link>
     <description>Recent content on nsproxy-docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
-    <atom:link href="https://unixvoid.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://unixvoid.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building nsproxy</title>
-      <link>https://unixvoid.com/building/</link>
+      <link>https://unixvoid.github.io/building/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/building/</guid>
+      <guid>https://unixvoid.github.io/building/</guid>
       <description>&lt;p&gt;This project requires golang to be installed with the dependencies in place.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -43,10 +43,10 @@ container&lt;/li&gt;
     
     <item>
       <title>Configuring nsproxy</title>
-      <link>https://unixvoid.com/configuration/</link>
+      <link>https://unixvoid.github.io/configuration/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/configuration/</guid>
+      <guid>https://unixvoid.github.io/configuration/</guid>
       <description>&lt;p&gt;Nsproxy uses &lt;strong&gt;gcfg&lt;/strong&gt; (INI-style config files for go structs).&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;[server]
@@ -111,10 +111,10 @@ container&lt;/li&gt;
     
     <item>
       <title>Nsproxy Basic Usage</title>
-      <link>https://unixvoid.com/basic_usage/</link>
+      <link>https://unixvoid.github.io/basic_usage/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/basic_usage/</guid>
+      <guid>https://unixvoid.github.io/basic_usage/</guid>
       <description>&lt;p&gt;The following usage implies the default config file is being used.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -159,10 +159,10 @@ clientpingtype = port.&lt;br /&gt;&lt;/li&gt;
     
     <item>
       <title>REST API Endpoints</title>
-      <link>https://unixvoid.com/api/</link>
+      <link>https://unixvoid.github.io/api/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/api/</guid>
+      <guid>https://unixvoid.github.io/api/</guid>
       <description>
 
 &lt;h2 id=&#34;api&#34;&gt;API&lt;/h2&gt;
@@ -354,10 +354,10 @@ curl localhost:8080/dns
     
     <item>
       <title>Redis Data Structures with nsproxy</title>
-      <link>https://unixvoid.com/redis_data_structures/</link>
+      <link>https://unixvoid.github.io/redis_data_structures/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/redis_data_structures/</guid>
+      <guid>https://unixvoid.github.io/redis_data_structures/</guid>
       <description>&lt;p&gt;This is designed to help the user understand what is going on inside of redis at a low level.  The following are redis keys (with examples) and what they store.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -437,10 +437,10 @@ curl localhost:8080/dns
     
     <item>
       <title>DNS based load balancer</title>
-      <link>https://unixvoid.com/</link>
+      <link>https://unixvoid.github.io/</link>
       <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
       
-      <guid>https://unixvoid.com/</guid>
+      <guid>https://unixvoid.github.io/</guid>
       <description>
 
 &lt;h2 id=&#34;nsproxy-documentation&#34;&gt;Nsproxy documentation&lt;/h2&gt;

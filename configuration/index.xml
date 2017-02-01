@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Configurations on nsproxy-docs</title>
-    <link>https://unixvoid.com/configuration/index.xml</link>
+    <link>https://unixvoid.github.io/configuration/index.xml</link>
     <description>Recent content in Configurations on nsproxy-docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
-    <atom:link href="https://unixvoid.com/configuration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://unixvoid.github.io/configuration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Configuring nsproxy</title>
-      <link>https://unixvoid.com/configuration/</link>
+      <link>https://unixvoid.github.io/configuration/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/configuration/</guid>
+      <guid>https://unixvoid.github.io/configuration/</guid>
       <description>&lt;p&gt;Nsproxy uses &lt;strong&gt;gcfg&lt;/strong&gt; (INI-style config files for go structs).&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;[server]

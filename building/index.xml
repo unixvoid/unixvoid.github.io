@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buildings on nsproxy-docs</title>
-    <link>https://unixvoid.com/building/index.xml</link>
+    <link>https://unixvoid.github.io/building/index.xml</link>
     <description>Recent content in Buildings on nsproxy-docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
-    <atom:link href="https://unixvoid.com/building/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://unixvoid.github.io/building/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building nsproxy</title>
-      <link>https://unixvoid.com/building/</link>
+      <link>https://unixvoid.github.io/building/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/building/</guid>
+      <guid>https://unixvoid.github.io/building/</guid>
       <description>&lt;p&gt;This project requires golang to be installed with the dependencies in place.&lt;/p&gt;
 
 &lt;ul&gt;

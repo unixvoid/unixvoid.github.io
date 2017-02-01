@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://unixvoid.com/building/</loc>
+    <loc>https://unixvoid.github.io/building/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/configuration/</loc>
+    <loc>https://unixvoid.github.io/configuration/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/basic_usage/</loc>
+    <loc>https://unixvoid.github.io/basic_usage/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/api/</loc>
+    <loc>https://unixvoid.github.io/api/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/redis_data_structures/</loc>
+    <loc>https://unixvoid.github.io/redis_data_structures/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/</loc>
+    <loc>https://unixvoid.github.io/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/api/</loc>
+    <loc>https://unixvoid.github.io/api/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/basic_usage/</loc>
+    <loc>https://unixvoid.github.io/basic_usage/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/building/</loc>
+    <loc>https://unixvoid.github.io/building/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/configuration/</loc>
+    <loc>https://unixvoid.github.io/configuration/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/redis_data_structures/</loc>
+    <loc>https://unixvoid.github.io/redis_data_structures/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://unixvoid.com/</loc>
+    <loc>https://unixvoid.github.io/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>

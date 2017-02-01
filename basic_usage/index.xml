@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basic_usages on nsproxy-docs</title>
-    <link>https://unixvoid.com/basic_usage/index.xml</link>
+    <link>https://unixvoid.github.io/basic_usage/index.xml</link>
     <description>Recent content in Basic_usages on nsproxy-docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 00:11:02 +0100</lastBuildDate>
-    <atom:link href="https://unixvoid.com/basic_usage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://unixvoid.github.io/basic_usage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nsproxy Basic Usage</title>
-      <link>https://unixvoid.com/basic_usage/</link>
+      <link>https://unixvoid.github.io/basic_usage/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>https://unixvoid.com/basic_usage/</guid>
+      <guid>https://unixvoid.github.io/basic_usage/</guid>
       <description>&lt;p&gt;The following usage implies the default config file is being used.&lt;/p&gt;
 
 &lt;ul&gt;
